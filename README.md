@@ -6,4 +6,7 @@
 - i actually working at my site (abdydev.tk)
 
 ## Contact me
-- if you want to contact me add me on discord AbdYy#0884
+- if you want to contact me message me on telegram https://telegram.com/@nonsonoabdy
+
+## Listening on spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4gknhzstwkajrf2p4623kbgu&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)

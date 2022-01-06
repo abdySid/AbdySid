@@ -9,7 +9,7 @@
 - if you want to contact me message me on telegram https://telegram.com/@nonsonoabdy
 
 ## Listening on spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4gknhzstwkajrf2p4623kbgu&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wnzek54fyd4kwwcjg5nsfag6r4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdYy0&show_icons=true)

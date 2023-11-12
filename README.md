@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Almost 16yo manager that likes code<br>
+🌱16yo manager that likes code<br>
 
 
 ## 🌐 Socials:
